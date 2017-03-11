@@ -7,5 +7,13 @@
   },
   "repository": "vlazar/circletest",
   "author": "Vladislav Zarakovsky",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "jasmine-core": "^2.5.2",
+    "karma": "^1.5.0",
+    "karma-chrome-launcher": "^2.0.0",
+    "karma-jasmine": "^1.1.0",
+    "karma-webpack": "^2.0.2",
+    "webpack": "^2.2.1"
+  }
 }
