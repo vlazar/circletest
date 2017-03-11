@@ -1,0 +1,11 @@
+{
+  "name": "circletest",
+  "version": "1.0.0",
+  "description": "circletest",
+  "scripts": {
+    "test": "karma start --single-run"
+  },
+  "repository": "vlazar/circletest",
+  "author": "Vladislav Zarakovsky",
+  "license": "MIT"
+}
